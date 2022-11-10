@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "666088321479",
+    "firebase_url": "https://toopdbq-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "toopdbq",
+    "storage_bucket": "toopdbq.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666088321479:android:480fb9680a45de5dfc69e2",
+        "android_client_info": {
+          "package_name": "com.ubh.toopdbq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666088321479-hmdcrima7te38dfl7ulqd39112gkvvv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHvetyPAIt3oFO8ezh65QbGPKwCkVUo6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666088321479-hmdcrima7te38dfl7ulqd39112gkvvv4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "666088321479-25ujrl2ilcchpifgcpfj2uaoh0047c25.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ubh.toopdbq"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
